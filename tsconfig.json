@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": ".dist",
+    "sourceMap": false,
+    "incremental": true,
+    "tsBuildInfoFile": "./.buildcache/build.info",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "**/*"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "token": "660a2b0a-4c5d-49e0-b66c-d764b427f41b",
+  "endpoint": "http://localhost:8080/api/v1",
+  "launch": "test-rp-multiple-test",
+  "project": "test-rp-new",
+  "description": "Triggered from Local run",
+  "scenarioBasedStatistics": false,
+  "attributes": [
+  ],
+  "mode": "DEFAULT",
+  "debug": false,
+  "restClientConfig": {
+    "timeout": 3000000
+  }
+}

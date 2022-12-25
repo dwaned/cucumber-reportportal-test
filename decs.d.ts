@@ -1,0 +1,1 @@
+declare module '@reportportal/agent-js-cucumber';
