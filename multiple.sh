@@ -5,7 +5,7 @@ source $NVM_DIR/nvm.sh;
 
 
 # Set the number of times to run the command
-n=20
+n=10
 
 # Run the command in a loop
 for (( i=1; i<=$n; i++ ))
