@@ -4,6 +4,7 @@ This repository contains a sample project to test the new ReportPortal agent-js-
 
 Requirements:
 - Local ReportPortal (v5.7.3) running on your machine
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) and [nvm](https://github.com/nvm-sh/nvm) installed on your machine
 - Change token and endpoint in rpConfig.json
 - Create a new project in ReportPortal and update rpConfig.json accordingly
 
